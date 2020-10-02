@@ -21,7 +21,7 @@ body{
 
 @media(max-width: 600px){
     .container{
-        width: 320px;
+        width: 340px;
     }  
 
     .container h1 {
