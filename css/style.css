@@ -22,7 +22,15 @@ body{
 @media(max-width: 600px){
     .container{
         width: 320px;
-    }   
+    }  
+
+    .container h1 {
+        font-size: 25px;
+    }
+
+    .container h2 {
+        visibility: hidden;
+    } 
     
 }
 
