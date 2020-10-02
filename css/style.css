@@ -47,8 +47,9 @@ body{
 .header h2 {
     color: #fff;
     position: relative;
-    bottom: 60px;
+    bottom: 50px;
     font-family: Arial;
+    font-size: 20px;
     
 }
 
