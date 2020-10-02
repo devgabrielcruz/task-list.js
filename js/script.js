@@ -66,7 +66,7 @@ function load() {
     } else if (hour >= 12 && hour <= 18) {
 
         header.style.backgroundImage = 'url(img/afternoon.jpg)'
-        document.body.style.background = '#D97652'
+        document.body.style.background = '#8fc0eb'
 
     } else {
 
